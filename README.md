@@ -39,8 +39,9 @@ Go through this entire playlist as it covers CNNs pretty well, in the later stag
 #### Week 3: Studying the Problem of Camouflage Object Masking
 1. A paper on a widely used Segmentation Network: https://arxiv.org/pdf/1505.04597.pdf <br>
 2. A paper on a model I have used in the past for the task of Camouflage Object Masking: https://arxiv.org/pdf/1612.03144.pdf <br>
+3. A paper which deals specifically with the task of Camouflage Object Masking: https://www.sciencedirect.com/science/article/pii/S1077314219300608 <br>
 You are encouraged to explore other architectures that might perform well on the task at hand.<br>
-3. An article to study and understand evaluation metrics for segmentation models: https://towardsdatascience.com/metrics-to-evaluate-your-semantic-segmentation-model-6bcb99639aa2 <br>
+4. An article to study and understand evaluation metrics for segmentation models: https://towardsdatascience.com/metrics-to-evaluate-your-semantic-segmentation-model-6bcb99639aa2 <br>
 
 #### Week 4: Implementing Studied Architectures
 This week is all about implementing and fine-tuning the architectures we have studied.<br>
