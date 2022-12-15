@@ -45,4 +45,6 @@ You are encouraged to explore other architectures that might perform well on the
 #### Week 4: Implementing Studied Architectures
 This week is all about implementing and fine-tuning the architectures we have studied.<br>
 There are no resources for this week, all you need to do is present a working model of your code at the end, along with the results you have obtained. <br>
-These will be the basis of what you are evaluated upon.
+These will be the basis of what you are evaluated upon.<br>
+Here is the link to the final dataset we would be working on: https://drive.google.com/drive/folders/1h-OqZdwkuPhBvGcVAwmh0f1NGqlH_4B6?usp=share_link <br>
+You are welcome to use any other appropriate dataset.
